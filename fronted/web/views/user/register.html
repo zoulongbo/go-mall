@@ -1,0 +1,16 @@
+<form aciton="/user/register" method="post">
+    <div class="container">
+        <label><b>别名</b></label>
+        <input type="text" placeholder="输入别名" name="nickname" required>
+        <label><b>用户名</b></label>
+        <input type="text" placeholder="输入用户名" name="username" required>
+        <label><b>密码</b></label>
+        <input type="text" placeholder="输入密码" name="password" required>
+        <label><b>验证码</b></label>
+        <img id="captcha_img" height="50" width="100%" src="{{.captchaPath}}" title="看不清，点击验证码可变更"  />
+        <input type="text" placeholder="Enter Captcha" name="userCaptcha" required/>
+        <input type="hidden"  value="{{.captchaId}}" name="captchaId"/>
+        <button type="submit">提交</button>
+    </div>
+
+</form>

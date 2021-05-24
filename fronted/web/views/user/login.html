@@ -1,0 +1,26 @@
+<div style="">
+    <div style="width: 400px;margin:0 auto;">
+        <form action="/user/login" method="POST">
+            <div class="container">
+                <label><b>用户名</b></label>
+                <input type="text" placeholder="Enter Username" name="username" required>
+
+                <label><b>密码</b></label>
+                <input type="password" placeholder="Enter Password" name="password" required>
+
+                <label><b>验证码</b></label>
+                <img id="captcha_img" height="50" width="100%" src="{{.captchaPath}}" title="看不清，点击验证码可变更"  />
+                <input type="text" placeholder="Enter Captcha" name="userCaptcha" required/>
+                <input type="hidden"  value="{{.captchaId}}" name="captchaId"/>
+                <button type="submit">登录</button>
+            </div>
+        </form>
+    </div>
+</div>
+<script>
+    $("#captcha_img").on("click", function(){
+        var path = '{{.captchaPath}}';
+        path += '?t=' + new Date().getTime()
+        $("#captcha_img").attr("src", path);
+    });
+</script>

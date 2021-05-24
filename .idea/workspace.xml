@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f44e1e17-498b-4c22-8584-9fd9f00dfec2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1nIIYFBQLcVXmj3bEHwRMJoBGyj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fronted/web/controller" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fronted/web/views/product" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/backend/web/views/assets/img" />
+      <recent name="$PROJECT_DIR$/backend/web/views/template/shared" />
+      <recent name="$PROJECT_DIR$/backend" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fronted/web/controller" />
+      <recent name="$PROJECT_DIR$/fronted/web/views/product" />
+      <recent name="$PROJECT_DIR$/routes" />
+      <recent name="$PROJECT_DIR$/fronted" />
+      <recent name="$PROJECT_DIR$/fronted/web/views" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/zoulongbo/go-mall/fronted">
+    <configuration name="go build github.com/zoulongbo/go-mall" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-mall" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/zoulongbo/go-mall" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/zoulongbo/go-mall/backend" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-mall" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/backend/main.go" />
+      <package value="github.com/zoulongbo/go-mall/backend" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/zoulongbo/go-mall/fronted" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-mall" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/fronted/main.go" />
+      <package value="github.com/zoulongbo/go-mall/fronted" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/zoulongbo/go-mall/rabbitMQTopic (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-mall" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/rabbitMQTopic/mainMQConsume1.go" />
+      <package value="github.com/zoulongbo/go-mall/rabbitMQTopic" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/zoulongbo/go-mall/rabbitMQTopic (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-mall" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/rabbitMQTopic/mainMQPublish.go" />
+      <package value="github.com/zoulongbo/go-mall/rabbitMQTopic" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/zoulongbo/go-mall/fronted" />
+        <item itemvalue="Go Build.go build github.com/zoulongbo/go-mall/backend" />
+        <item itemvalue="Go Build.go build github.com/zoulongbo/go-mall" />
+        <item itemvalue="Go Build.go build github.com/zoulongbo/go-mall/rabbitMQTopic (2)" />
+        <item itemvalue="Go Build.go build github.com/zoulongbo/go-mall/rabbitMQTopic (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn,direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1611565653323">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser/0.25.1440.814@0.25.1440.814" timestamp="1611565653323" />
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall" timestamp="1611075400647">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/0.25.1440.814@0.25.1440.814" timestamp="1611075400647" />
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQRouting" timestamp="1611126124874">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQRouting/0.25.1440.814@0.25.1440.814" timestamp="1611126124874" />
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQRouting_(1)" timestamp="1611126137965">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQRouting_(1)/0.25.1440.814@0.25.1440.814" timestamp="1611126137964" />
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQRouting_(2)" timestamp="1611126147224">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQRouting_(2)/0.25.1440.814@0.25.1440.814" timestamp="1611126147224" />
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQSub" timestamp="1611124028171">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQSub/0.25.1440.814@0.25.1440.814" timestamp="1611124028171" />
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQSub_(1)" timestamp="1611124040980">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQSub_(1)/0.25.1440.814@0.25.1440.814" timestamp="1611124040980" />
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQSub_(2)" timestamp="1611124052338">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQSub_(2)/0.25.1440.814@0.25.1440.814" timestamp="1611124052338" />
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQSub_(3)" timestamp="1611124063595">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQSub_(3)/0.25.1440.814@0.25.1440.814" timestamp="1611124063595" />
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQTopic" timestamp="1611128015257">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQTopic/0.25.1440.814@0.25.1440.814" timestamp="1611128015257" />
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQTopic_(1)" timestamp="1611128068151">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQTopic_(1)/0.25.1440.814@0.25.1440.814" timestamp="1611128068151" />
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQTopic_(2)" timestamp="1611128077913">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQTopic_(2)/0.25.1440.814@0.25.1440.814" timestamp="1611128077913" />
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQWorker" timestamp="1611109863109">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQWorker/0.25.1440.814@0.25.1440.814" timestamp="1611109863109" />
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQWorker_(1)" timestamp="1611109875808">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQWorker_(1)/0.25.1440.814@0.25.1440.814" timestamp="1611109875808" />
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQWorker_(2)" timestamp="1611109888111">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQWorker_(2)/0.25.1440.814@0.25.1440.814" timestamp="1611109888111" />
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQWorker_(3)" timestamp="1611110008319">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall/rabbitMQWorker_(3)/0.25.1440.814@0.25.1440.814" timestamp="1611110008319" />
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall_(1)" timestamp="1611075414906">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="427" y="65" key="#go_build_github.com/zoulongbo/go-mall_(1)/0.25.1440.814@0.25.1440.814" timestamp="1611075414906" />
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom" timestamp="1614247400151">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.25.1440.814/-1920.25.1920.1055@0.25.1440.814" timestamp="1614247400151" />
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.25.1440.814@0.25.1440.814" timestamp="1612432864066" />
+    <state width="1398" height="260" key="GridCell.Tab.0.center" timestamp="1614247400149">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.0.center/0.25.1440.814/-1920.25.1920.1055@0.25.1440.814" timestamp="1614247400149" />
+    <state width="1398" height="260" key="GridCell.Tab.0.center/0.25.1440.814@0.25.1440.814" timestamp="1612432864065" />
+    <state width="1398" height="260" key="GridCell.Tab.0.left" timestamp="1614247400148">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.0.left/0.25.1440.814/-1920.25.1920.1055@0.25.1440.814" timestamp="1614247400148" />
+    <state width="1398" height="260" key="GridCell.Tab.0.left/0.25.1440.814@0.25.1440.814" timestamp="1612432864064" />
+    <state width="1398" height="260" key="GridCell.Tab.0.right" timestamp="1614247400150">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.0.right/0.25.1440.814/-1920.25.1920.1055@0.25.1440.814" timestamp="1614247400150" />
+    <state width="1398" height="260" key="GridCell.Tab.0.right/0.25.1440.814@0.25.1440.814" timestamp="1612432864065" />
+    <state width="1398" height="248" key="GridCell.Tab.1.bottom" timestamp="1611642750293">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.bottom/0.25.1440.814@0.25.1440.814" timestamp="1611642750293" />
+    <state width="1398" height="248" key="GridCell.Tab.1.center" timestamp="1611642750291">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.center/0.25.1440.814@0.25.1440.814" timestamp="1611642750291" />
+    <state width="1398" height="248" key="GridCell.Tab.1.left" timestamp="1611642750290">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.left/0.25.1440.814@0.25.1440.814" timestamp="1611642750290" />
+    <state width="1398" height="248" key="GridCell.Tab.1.right" timestamp="1611642750292">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.right/0.25.1440.814@0.25.1440.814" timestamp="1611642750292" />
+    <state x="229" y="68" key="SettingsEditor" timestamp="1611199878547">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="229" y="68" key="SettingsEditor/0.25.1440.814@0.25.1440.814" timestamp="1611199878547" />
+    <state x="383" y="189" width="674" height="486" key="find.popup" timestamp="1611673259474">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="383" y="189" width="674" height="486" key="find.popup/0.25.1440.814@0.25.1440.814" timestamp="1611673259474" />
+    <state x="385" y="80" width="670" height="676" key="search.everywhere.popup" timestamp="1614235993037">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="385" y="80" width="670" height="676" key="search.everywhere.popup/0.25.1440.814/-1920.25.1920.1055@0.25.1440.814" timestamp="1614235993037" />
+    <state x="385" y="80" width="670" height="676" key="search.everywhere.popup/0.25.1440.814@0.25.1440.814" timestamp="1612429639274" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/backend/main.go</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
